@@ -1,18 +1,14 @@
-# .readthedocs.yaml
-
-# Read the Docs configuration file for Sphinx projects
-# See https://docs.readthedocs.io/en/stable/config-file/v2.html for details
-
-# Required
 version: 2
 
-# Set the OS, Python version and other tools you might need
 build:
   os: ubuntu-22.04
   tools:
-    nodejs: "18"
+    nodejs: "latest"
   commands:
-    - mkdir --parents $READTHEDOCS_OUTPUT/html/
-    - npm ci
-    - npm run build --base "/$READTHEDOCS_LANGUAGE/$READTHEDOCS_VERSION/"
-    - cp --recursive docs/.vitepress/dist/* $READTHEDOCS_OUTPUT/html/
+     - npm ci
+     # The site was created by running `vitepress init`
+     # and following the official guide
+     # https://vitepress.dev/guide/getting-started
+     - ./node_modules/.bin/vitepress build docs
+     - mkdir -p $READTHEDOCS_OUTPUT/
+     - mv docs/.vitepress/dist $READTHEDOCS_OUTPUT/html

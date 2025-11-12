@@ -13,6 +13,6 @@ build:
     nodejs: "18"
   commands:
     - mkdir --parents $READTHEDOCS_OUTPUT/html/
-    - cd docs && npm ci
-    - cd docs && npm run build -- --base "/$READTHEDOCS_LANGUAGE/$READTHEDOCS_VERSION/"
+    - npm ci
+    - npm run build --base "/$READTHEDOCS_LANGUAGE/$READTHEDOCS_VERSION/"
     - cp --recursive docs/.vitepress/dist/* $READTHEDOCS_OUTPUT/html/

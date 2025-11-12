@@ -14,5 +14,5 @@ build:
   commands:
     - mkdir --parents $READTHEDOCS_OUTPUT/html/
     - cd docs && npm ci
-    - cd docs && npm run docs:build -- --base "/$READTHEDOCS_LANGUAGE/$READTHEDOCS_VERSION/"
+    - cd docs && npm run build -- --base "/$READTHEDOCS_LANGUAGE/$READTHEDOCS_VERSION/"
     - cp --recursive docs/.vitepress/dist/* $READTHEDOCS_OUTPUT/html/

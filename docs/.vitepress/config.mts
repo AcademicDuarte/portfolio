@@ -6,6 +6,9 @@ import module_sidebar from './modules/sidebar';
 export default defineConfig({
 	base: module_base,
 	ignoreDeadLinks: true,
+	head:[
+		['link', { rel: 'icon', href: './favicon.png' }]
+	] ,
 	markdown: { math: true },
 	title: "Duarte",
 	titleTemplate: ":title | Duarte",

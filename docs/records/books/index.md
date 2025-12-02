@@ -1,3 +1,1 @@
 # Books
-
-## Study Books

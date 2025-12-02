@@ -20,6 +20,9 @@ export default defineConfig({
 	themeConfig: {
 		logo: './logo.png',
 		nav: module_navbar,
+		search: {
+			provider: 'local'
+		},
 		sidebar: module_sidebar,
 		socialLinks: [
 			{ icon: 'orcid', link: 'https://orcid.org/0009-0006-5258-5241' },

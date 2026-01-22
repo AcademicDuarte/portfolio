@@ -1,3 +1,5 @@
+## Foundations of Mathematics
+
 ### Intuitionist logic
 ### Modal logic
 ### Model theory

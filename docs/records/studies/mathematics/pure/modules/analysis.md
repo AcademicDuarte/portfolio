@@ -1,10 +1,10 @@
+## Analysis
+
 ### Complex analysis
 ### Functional analysis
 #### Operator theory
-
 ### Harmonic analysis
 #### Fourier analysis
-
 ### Non-standard analysis
 ### Ordinary differential equations
 ### p-adic analysis

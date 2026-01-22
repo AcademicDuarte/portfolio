@@ -1,0 +1,4 @@
+## Medieval philosophy
+
+### Humanism
+### Scholasticism

@@ -1,1 +1,1 @@
-# Mathematics courses
+# Mathematics Courses

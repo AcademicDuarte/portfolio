@@ -1,1 +1,1 @@
-# Science courses
+# Science Courses

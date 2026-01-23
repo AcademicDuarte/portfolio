@@ -4,7 +4,7 @@ export default [
 		items: [
 			{ link: 'languages/index.md', text: 'Languages' },
 			{ link: 'mathematics/index.md', text: 'Mathematics' },
-			{ link: 'sciences/index.md', text: 'sciences' },
+			{ link: 'sciences/index.md', text: 'Sciences' },
 		],
 		text: 'Areas'
 	}

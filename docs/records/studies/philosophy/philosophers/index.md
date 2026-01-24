@@ -1,17 +1,35 @@
 # Studies on Philosophers
 
 <!--@include: ./modules/aristotle.md-->
+<!--@include: ./modules/arthur-schopenhauer.md-->
+<!--@include: ./modules/augustine-of-hippo.md-->
 <!--@include: ./modules/bertrand-russell.md-->
+<!--@include: ./modules/david-hume.md-->
 <!--@include: ./modules/deleuze.md-->
 <!--@include: ./modules/descartes.md-->
+<!--@include: ./modules/francis-bacon.md-->
+<!--@include: ./modules/george-berkeley.md-->
 <!--@include: ./modules/gottlob-frege.md-->
+<!--@include: ./modules/hannah-arendt.md-->
 <!--@include: ./modules/immanuel-kant.md-->
 <!--@include: ./modules/hegel.md-->
 <!--@include: ./modules/heidegger.md-->
 <!--@include: ./modules/husserl.md-->
 <!--@include: ./modules/jacques-derrida.md-->
+<!--@include: ./modules/jean-jacques-rousseau.md-->
 <!--@include: ./modules/jean-paul-sartre.md-->
+<!--@include: ./modules/john-locke.md-->
+<!--@include: ./modules/john-rawls.md-->
+<!--@include: ./modules/john-stuart-mill.md-->
+<!--@include: ./modules/karl-marx.md-->
+<!--@include: ./modules/leibniz.md-->
+<!--@include: ./modules/michel-foucault.md-->
+<!--@include: ./modules/niccolo-machiavelli-.md-->
+<!--@include: ./modules/nietzsche.md-->
 <!--@include: ./modules/plato.md-->
+<!--@include: ./modules/quine.md-->
+<!--@include: ./modules/soren-kierkegaard.md-->
 <!--@include: ./modules/spinoza.md-->
 <!--@include: ./modules/thomas-aquinas.md-->
+<!--@include: ./modules/thomas-hobbes.md-->
 <!--@include: ./modules/wittgenstein.md-->

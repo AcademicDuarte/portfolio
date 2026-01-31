@@ -3,23 +3,33 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "Duarte's Portfolio"
+  image: 
+    dark: /logo-light.png
+    light: /logo-dark.png
+  tagline: Undergraduate Student
+  text: "My Academic Archive"
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Contact Me
+      link: mailto:academic.duarte@gmail.com
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: About Me
+      link: https://orcid.org/0009-0006-5258-5241
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
----
+  - title: Last Article
+    icon: 📄
+    details: <!--@include: ./_last/article.md-->
+  - title: Last Book
+    icon: 📖
+    details: <!--@include: ./_last/book.md-->
+  - title: Last Essay
+    icon: 📜
+    details: <!--@include: ./_last/essay.md-->
+  - title: Last Study
+    icon: 🎓
+    details: <!--@include: ./_last/study.md-->
 
+title: Home
+---

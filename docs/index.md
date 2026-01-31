@@ -20,16 +20,16 @@ hero:
 features:
   - title: Last Article
     icon: 📄
-    details: <!--@include: ./_last/article.md-->
+    details: "<!--@include: ./_last/article.md-->"
   - title: Last Book
     icon: 📖
-    details: <!--@include: ./_last/book.md-->
+    details: "<!--@include: ./_last/book.md-->"
   - title: Last Essay
     icon: 📜
-    details: <!--@include: ./_last/essay.md-->
+    details: "<!--@include: ./_last/essay.md-->"
   - title: Last Study
     icon: 🎓
-    details: <!--@include: ./_last/study.md-->
+    details: "<!--@include: ./_last/study.md-->"
 
 title: Home
 ---

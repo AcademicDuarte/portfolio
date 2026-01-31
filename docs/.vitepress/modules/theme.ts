@@ -8,8 +8,8 @@ export default {
 	},
 	lastUpdated: {
 		formatOptions: {
-			dateStyle: 'short',
-			timeStyle: 'medium'
+			dateStyle: 'full',
+			timeStyle: 'short'
 		},
 		text: 'Last updated'
 	},

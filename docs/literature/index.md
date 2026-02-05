@@ -1,7 +1,7 @@
 # Literature
+**Last book**: <!--@include: ../_last/book.md-->
+**Last poetry**: <!--@include: ../_last/poetry.md-->
 
 ## Books
-**Last publication**: <!--@include: ../_last/book.md-->
 
 ## Poetry
-**Last publication**: <!--@include: ../_last/poetry.md-->

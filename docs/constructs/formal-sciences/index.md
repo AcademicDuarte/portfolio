@@ -1,1 +1,0 @@
-# Constructs in Formal Sciences

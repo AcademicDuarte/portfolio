@@ -4,33 +4,23 @@ export default [
 		text: 'Home'
 	},
 	{
-		activeMatch: '/articles/',
-		link: '/articles',
-		text: 'Articles'
+		activeMatch: '/learning/',
+		link: '/learning/',
+		text: 'Learning'
 	},
 	{
-		activeMatch: '/books/',
-		link: '/books',
-		text: 'Books'
+		activeMatch: '/literature/',
+		link: '/literature/',
+		text: 'Literature'
 	},
 	{
-		activeMatch: '/constructs/',
-		link: '/constructs',
-		text: 'Constructs'
+		activeMatch: '/notes/',
+		link: '/notes/',
+		text: 'Notes'
 	},
 	{
-		activeMatch: '/courses/',
-		link: '/courses',
-		text: 'Courses'
+		activeMatch: '/research/',
+		link: '/research/',
+		text: 'Research'
 	},
-	{
-		activeMatch: '/essays/',
-		link: '/essays',
-		text: 'Essays'
-	},
-	{
-		activeMatch: '/studies/',
-		link: '/studies',
-		text: 'Studies'
-	}
 ]

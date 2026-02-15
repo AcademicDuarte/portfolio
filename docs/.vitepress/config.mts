@@ -9,7 +9,7 @@ export default defineConfig({
 	description: "Academic archive by Duarte",
 	ignoreDeadLinks: true,
 	head: [
-		['link', { rel: 'icon', href: '/favicon.ico'}]
+		['link', { rel: 'icon', href: '/favicon.png'}]
 	],
 	lastUpdated: true,
 	logo: {

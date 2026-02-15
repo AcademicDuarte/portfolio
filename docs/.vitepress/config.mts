@@ -8,6 +8,9 @@ export default defineConfig({
 	cleanUrls: true,
 	description: "Academic archive by Duarte",
 	ignoreDeadLinks: true,
+	head: [
+		['link', { rel: 'icon', href: '/favicon.ico'}]
+	],
 	lastUpdated: true,
 	logo: {
 		dark: '/logo-light.png',

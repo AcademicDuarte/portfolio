@@ -1,1 +1,0 @@
-# Studies in Pure Mathematics

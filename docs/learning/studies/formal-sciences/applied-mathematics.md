@@ -1,1 +1,0 @@
-# Studies in Applied Mathematics

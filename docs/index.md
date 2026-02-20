@@ -18,18 +18,7 @@ hero:
       link: https://orcid.org/0009-0006-5258-5241
 
 features:
-  - title: Last Article
-    icon: 📄
-    details: "<!--@include: ./_last/article.md-->"
-  - title: Last Book
-    icon: 📖
-    details: "<!--@include: ./_last/book.md-->"
-  - title: Last Essay
-    icon: 📜
-    details: "<!--@include: ./_last/essay.md-->"
-  - title: Last Study
-    icon: 🎓
-    details: "<!--@include: ./_last/study.md-->"
+    - title: ...
 
 title: Home
 ---
